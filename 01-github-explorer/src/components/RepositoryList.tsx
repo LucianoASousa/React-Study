@@ -1,4 +1,4 @@
-import { RepositoryItem } from "./RepositoryItem.jsx";
+import { RepositoryItem } from "./RepositoryItem";
 import { useState } from "react";
 
 import '../styles/repositories.scss';
